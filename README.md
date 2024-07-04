@@ -1,1 +1,1 @@
-# Pytohn_ML_InternshipProject
+# Python_ML_InternshipProject
